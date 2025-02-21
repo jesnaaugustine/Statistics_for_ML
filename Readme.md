@@ -1,0 +1,1 @@
+This repostory created to learn statistics for Data scientist
